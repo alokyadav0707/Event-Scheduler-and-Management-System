@@ -1,5 +1,5 @@
 # Event-Scheduler-and-Management-System
-This project implements a C++-based scheduling system using Min-Heap to efficiently manage priority-based events.
+This project implements a C++ based scheduling system using Min-Heap to efficiently manage priority-based events.
 
 Developed a dynamic task scheduler for adding, removing, and modifying events with optimized time complexity.
 
